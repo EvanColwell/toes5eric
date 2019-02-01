@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/19399929_1921339538151507_1971012393185828790_n.jpg?_nc_cat=104&_nc_oc=AQlKkrl1y6OP5bo3FJsGsIPVAyYhJpkqzMo7x7mLK23QTVqvJeBUOi_Lu8YITBJSXatMqCfTBhzYxGnNbEFWWjRz&_nc_ht=scontent-sea1-1.xx&oh=80add956598108b9c93411f4c9a1c3d1&oe=5CED5D3A");
+}
+h1 {
+	color:lightblue;
+	font-family: 'ComicReliefRegular'; 
+   	font-weight: normal; 
+   	font-style: normal; 
+}
+
+p {
+	color:red;
+	font-family: 'ComicReliefRegular'; 
+   	font-weight: normal; 
+   	font-style: normal; 
+}
+#content {
+	margin: 2%;
+}
